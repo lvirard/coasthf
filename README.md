@@ -1,2 +1,2 @@
 # coasthf
-An app to easyli visualize oceanographic data from Coast-HF network
+An app to easily visualize oceanographic data from Coast-HF network
